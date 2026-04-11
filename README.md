@@ -66,31 +66,21 @@
 
 ## 🌟 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Anu062004/polPUMP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anu062004&repo=polPUMP&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/Anu062004/ShiftAid">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anu062004&repo=ShiftAid&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Anu062004/FlowPay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anu062004&repo=FlowPay&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/Anu062004/CasFin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anu062004&repo=CasFin&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
-  </a>
-</p>
+| 🚀 Project | 📄 Description | 🛠️ Stack |
+|---|---|---|
+| [**polPUMP**](https://github.com/Anu062004/polPUMP) | Memecoin launchpad on Polygon — create & trade tokens via bonding curves, Web3 games, live streaming, full DEX | TypeScript · Solidity · Next.js |
+| [**ShiftAid**](https://github.com/Anu062004/ShiftAid) | Cross-chain humanitarian donation router — donate any crypto, NGOs receive USDC instantly via SideShift API | TypeScript · Solidity · Node.js |
+| [**FlowPay**](https://github.com/Anu062004/FlowPay) | Decentralized P2P payment platform with wallet management and seamless fund transfers | TypeScript · Next.js · Node.js |
+| [**CasFin**](https://github.com/Anu062004/CasFin) | DeFi finance platform built on blockchain infrastructure | TypeScript · Solidity |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anu062004&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anu062004&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&count_private=true&cache_seconds=1800" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu062004&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu062004&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&cache_seconds=1800" height="165" />
 </p>
 
 <p align="center">
