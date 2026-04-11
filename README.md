@@ -26,16 +26,12 @@
 
 ## 🧑 About Me
 
-```ts
-const anubhav = {
-  location:   "Bangalore, India 🇮🇳",
-  education:  "2nd Year @ BMSIT Bangalore",
-  focus:      ["Web3", "Blockchain", "DeFi", "Smart Contracts"],
-  askMeAbout: ["Node.js", "TypeScript", "C++", "Rust", "JavaScript"],
-  email:      "anubhavrajput572@gmail.com",
-  funFact:    "I think in transactions and dream in Merkle trees 🌳",
-};
-```
+- 📍 Based in **Bangalore, India**
+- 🎓 2nd year undergrad at **BMSIT Bangalore**
+- ✨ Passionate about **Blockchain, Web3, DeFi & Smart Contracts**
+- 💬 Ask me about **Node.js · TypeScript · C++ · Rust · JavaScript**
+- 📫 Reach me at **anubhavrajput572@gmail.com**
+- ⚡ Fun fact: I think in transactions and dream in Merkle trees 🌳
 
 ---
 
@@ -56,7 +52,7 @@ const anubhav = {
   </a>
 </p>
 
-**Also working with:**
+**Web3 & Blockchain:**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
@@ -74,16 +70,16 @@ const anubhav = {
   <a href="https://github.com/Anu062004/polPUMP">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anu062004&repo=polPUMP&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
   </a>
-  <a href="https://github.com/Anu062004/moca_moca">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anu062004&repo=moca_moca&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
+  <a href="https://github.com/Anu062004/ShiftAid">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anu062004&repo=ShiftAid&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Anu062004/Prediction-Market">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anu062004&repo=Prediction-Market&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
+  <a href="https://github.com/Anu062004/FlowPay">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anu062004&repo=FlowPay&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
   </a>
-  <a href="https://github.com/Anu062004/ShiftAid">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anu062004&repo=ShiftAid&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
+  <a href="https://github.com/Anu062004/CasFin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anu062004&repo=CasFin&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" />
   </a>
 </p>
 
@@ -94,7 +90,7 @@ const anubhav = {
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anu062004&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&count_private=true" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu062004&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39d353&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu062004&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" height="165" />
 </p>
 
 <p align="center">
