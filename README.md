@@ -68,7 +68,7 @@
 
 | 🚀 Project | 📄 Description | 🛠️ Stack |
 |---|---|---|
-| [**polPUMP**](https://github.com/Anu062004/polPUMP) | Memecoin launchpad on Polygon — create & trade tokens via bonding curves, Web3 games, live streaming, full DEX | TypeScript · Solidity · Next.js |
+| [**polPUMP**](https://github.com/Anu062004/polPUMPnew.git) | Memecoin launchpad on Polygon — create & trade tokens via bonding curves, Web3 games, live streaming, full DEX | TypeScript · Solidity · Next.js |
 | [**ShiftAid**](https://github.com/Anu062004/ShiftAid) | Cross-chain humanitarian donation router — donate any crypto, NGOs receive USDC instantly via SideShift API | TypeScript · Solidity · Node.js |
 | [**FlowPay**](https://github.com/Anu062004/FlowPay) | Decentralized P2P payment platform with wallet management and seamless fund transfers | TypeScript · Next.js · Node.js |
 | [**CasFin**](https://github.com/Anu062004/CasFin) | DeFi finance platform built on blockchain infrastructure | TypeScript · Solidity |
