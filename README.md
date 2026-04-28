@@ -1,11 +1,11 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:39d353&height=200&section=header&text=Anubhav&fontSize=60&fontColor=39d353&fontAlignY=38&desc=Web3%20Explorer%20·%20Blockchain%20Enthusiast%20·%20Crypto%20Enthusiast&descAlignY=58&descSize=18&descColor=c9d1d9" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:39d353&height=200&section=header&text=Anubhav&fontSize=60&fontColor=39d353&fontAlignY=38&desc=Full-Stack%20Web3%20Developer%20%C2%B7%20Smart%20Contract%20Engineer%20%C2%B7%20DeFi%20Builder&descAlignY=58&descSize=18&descColor=c9d1d9" />
 </div>
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Building+on+Web3+%F0%9F%94%97;Node.js+%7C+TypeScript+%7C+Rust;2nd+Year+%40+BMSIT+Bangalore;Turning+ideas+into+dApps+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Building+on+Web3+%F0%9F%94%97;Node.js+%7C+TypeScript+%7C+Rust;ZK+Proofs+%7C+DeFi+%7C+Smart+Contracts;Turning+ideas+into+dApps+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <!-- Social Badges -->
@@ -31,16 +31,19 @@
 - ✨ Passionate about **Blockchain, Web3, DeFi & Smart Contracts**
 - 💬 Ask me about **Node.js · TypeScript · C++ · Rust · JavaScript**
 - 📫 Reach me at **anubhavrajput572@gmail.com**
-- ⚡ Fun fact: I think in transactions and dream in Merkle trees 🌳
+- 🏆 Built and shipped live dApps on Polygon — launchpads, cross-chain bridges, and P2P payment systems
 
 ---
 
 ## 🔭 Currently Working On
 
 - 🏗️ Building **DeFi & dApp projects** on Polygon and Linera
-- 🌱 Learning **Zero Knowledge Proofs** & **Solidity**
 - 🤝 Looking to collaborate on **open-source Web3 projects**
-- 📖 Exploring **Rust** for blockchain infrastructure
+
+## 🌱 Currently Learning
+
+- 📐 **Zero Knowledge Proofs** — circuits, proof systems, and zkApps
+- 📖 **Rust** for high-performance blockchain infrastructure
 
 ---
 
@@ -71,7 +74,7 @@
 | [**polPUMP**](https://github.com/Anu062004/polPUMPnew.git) | Memecoin launchpad on Polygon — create & trade tokens via bonding curves, Web3 games, live streaming, full DEX | TypeScript · Solidity · Next.js |
 | [**ShiftAid**](https://github.com/Anu062004/ShiftAidNew.git) | Cross-chain humanitarian donation router — donate any crypto, NGOs receive USDC instantly via SideShift API | TypeScript · Solidity · Node.js |
 | [**FlowPay**](https://github.com/Anu062004/FlowPay) | Decentralized P2P payment platform with wallet management and seamless fund transfers | TypeScript · Next.js · Node.js |
-| [**CasFin**](https://github.com/Anu062004/CasFin) | DeFi Casino platform built on blockchain infrastructure | TypeScript · Solidity |
+| [**CasFin**](https://github.com/Anu062004/CasFin) | On-chain casino with provably fair randomness using Chainlink VRF and smart contract-enforced payout logic | TypeScript · Solidity |
 
 ---
 
