@@ -1,0 +1,12 @@
+.venv/
+.u2net/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local-only portrait inputs and rendered preview thumbnails
+photo_2026-02-08_11-29-03.jpg
+source-prepped.png
+preview-*.png
+preview-*.svg
+*.svg.png

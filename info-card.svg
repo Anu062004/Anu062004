@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="480" viewBox="0 0 490 480" role="img" aria-labelledby="title desc">
+  <title id="title">Profile information for Anubhav Rajput</title>
+  <desc id="desc">A monochrome terminal-style panel listing role, stack, projects, and education.</desc>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+    .host { fill: #f0f6fc; font-size: 12px; font-weight: 600; }
+    .key { fill: #8b949e; font-size: 10px; letter-spacing: 1px; }
+    .value { fill: #f0f6fc; font-size: 12px; }
+    .status { fill: #8b949e; font-size: 10px; letter-spacing: .5px; }
+  </style>
+  <rect width="490" height="480" rx="12" fill="#0d1117"/>
+  <rect x="0.75" y="0.75" width="488.5" height="478.5" rx="11.25" fill="none" stroke="#30363d" stroke-width="1.5"/>
+  <circle cx="18" cy="21" r="3" fill="#f0f6fc"/>
+  <circle cx="29" cy="21" r="3" fill="#8b949e"/>
+  <circle cx="40" cy="21" r="3" fill="#484f58"/>
+  <text class="host" x="55" y="25">github.com/Anu062004</text>
+  <path d="M16 37.5H474" stroke="#30363d"/>
+  <path d="M20 58.00H470" stroke="#30363d" stroke-opacity=".55"/><text class="key" x="25" y="86.21">NAME</text><text class="value" x="128" y="86.21">Anubhav Rajput</text><path d="M20 103.50H470" stroke="#30363d" stroke-opacity=".55"/><text class="key" x="25" y="131.71">ROLE</text><text class="value" x="128" y="131.71">Full-Stack Web3 Developer</text><path d="M20 149.00H470" stroke="#30363d" stroke-opacity=".55"/><text class="key" x="25" y="177.21">FOCUS</text><text class="value" x="128" y="177.21">Smart contracts · DeFi · dApps</text><path d="M20 194.50H470" stroke="#30363d" stroke-opacity=".55"/><text class="key" x="25" y="222.71">STACK</text><text class="value" x="128" y="222.71">TypeScript · Solidity · Node.js · Rust</text><path d="M20 240.00H470" stroke="#30363d" stroke-opacity=".55"/><text class="key" x="25" y="268.21">BUILDING</text><text class="value" x="128" y="268.21">Polygon &amp; Linera products</text><path d="M20 285.50H470" stroke="#30363d" stroke-opacity=".55"/><text class="key" x="25" y="313.71">SHIPPED</text><text class="value" x="128" y="313.71">polPUMP · ShiftAid · FlowPay · CasFin</text><path d="M20 331.00H470" stroke="#30363d" stroke-opacity=".55"/><text class="key" x="25" y="359.21">EDU</text><text class="value" x="128" y="359.21">BMSIT Bengaluru · undergraduate</text><path d="M20 376.50H470" stroke="#30363d" stroke-opacity=".55"/><text class="key" x="25" y="404.71">OPEN TO</text><text class="value" x="128" y="404.71">Open-source Web3 collaboration</text>
+  <path d="M20 438.00H470" stroke="#30363d" stroke-opacity=".55"/>
+  <circle cx="28" cy="455" r="3" fill="#f0f6fc"/>
+  <text class="status" x="39" y="458">AVAILABLE FOR MEANINGFUL BUILDS</text>
+</svg>
