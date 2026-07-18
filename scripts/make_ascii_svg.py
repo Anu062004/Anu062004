@@ -19,6 +19,7 @@ GAMMA = 0.96
 WHITE_FLOOR = 0.025
 EDGE_WEIGHT = 0.90
 DETAIL_WEIGHT = 0.36
+REVEAL_SECONDS = 1.8
 W = 370
 H = 480
 COLS = 78
@@ -112,10 +113,18 @@ def render_svg(density: np.ndarray, static: bool, square_preview: bool = False) 
     cell_w = (W - 2 * pad_x) / COLS
     cell_h = art_h / ROWS
     font_size = cell_h * 1.04
-    total_cells = COLS * ROWS
-    delay_step = 4.8 / total_cells
+    visible_cells = sum(
+        1
+        for value in density.flat
+        if CHARACTERS[
+            min(len(CHARACTERS) - 1, int(round(float(value) * (len(CHARACTERS) - 1))))
+        ]
+        != " "
+    )
+    delay_step = REVEAL_SECONDS / max(1, visible_cells)
 
     spans: list[str] = []
+    visible_sequence = 0
     for row in range(ROWS):
         for column in range(COLS):
             value = float(density[row, column])
@@ -133,12 +142,13 @@ def render_svg(density: np.ndarray, static: bool, square_preview: bool = False) 
                     f'x="{x:.2f}" y="{y:.2f}">{escaped}</text>'
                 )
             else:
-                delay = (row * COLS + column) * delay_step
+                delay = visible_sequence * delay_step
                 spans.append(
                     f'<text class="char" fill-opacity="{fill_opacity:.2f}" '
                     f'style="--delay:{delay:.3f}s" '
                     f'x="{x:.2f}" y="{y:.2f}">{escaped}</text>'
                 )
+            visible_sequence += 1
 
     animation = ""
     if not static:
