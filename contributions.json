@@ -4,10 +4,10 @@
     "from": "2025-08-26",
     "to": "2026-08-25"
   },
-  "fetched_at": "2026-08-25T14:54:57.560369+00:00",
-  "total": 452,
-  "current_streak": 39,
-  "longest_streak": 39,
+  "fetched_at": "2026-08-25T01:50:05.876609+00:00",
+  "total": 451,
+  "current_streak": 38,
+  "longest_streak": 38,
   "days": [
     {
       "date": "2025-08-26",
@@ -1831,8 +1831,8 @@
     },
     {
       "date": "2026-08-25",
-      "count": 1,
-      "level": 1
+      "count": 0,
+      "level": 0
     }
   ]
 }
