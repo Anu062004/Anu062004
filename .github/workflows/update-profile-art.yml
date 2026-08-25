@@ -36,7 +36,7 @@ jobs:
       - name: Commit refreshed art
         run: |
           git config user.name "Anu062004"
-          git config user.email "anubhavrajput572@gmail.com"
+          git config user.email "171272102+Anu062004@users.noreply.github.com"
           git add contributions.json contrib-heatmap.svg info-card.svg
           git diff --cached --quiet || git commit -m "chore: refresh contribution art"
           git push
