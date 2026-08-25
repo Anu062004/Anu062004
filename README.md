@@ -16,4 +16,12 @@
   <img src="./contrib-heatmap.svg" width="900" alt="GitHub contribution heatmap for Anu062004" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anu062004/Anu062004/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anu062004/Anu062004/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation of GitHub contributions" src="https://raw.githubusercontent.com/Anu062004/Anu062004/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 <p align="center"><sub>Building useful systems, one deliberate commit at a time.</sub></p>
