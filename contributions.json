@@ -1,19 +1,14 @@
 {
   "username": "Anu062004",
   "range": {
-    "from": "2025-11-28",
-    "to": "2026-11-27"
+    "from": "2025-11-29",
+    "to": "2026-11-28"
   },
-  "fetched_at": "2026-11-27T08:19:08.563354+00:00",
-  "total": 570,
-  "current_streak": 3,
+  "fetched_at": "2026-11-28T07:40:12.805647+00:00",
+  "total": 572,
+  "current_streak": 5,
   "longest_streak": 40,
   "days": [
-    {
-      "date": "2025-11-28",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-11-29",
       "count": 0,
@@ -1831,8 +1826,13 @@
     },
     {
       "date": "2026-11-27",
-      "count": 0,
-      "level": 0
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-11-28",
+      "count": 1,
+      "level": 1
     }
   ]
 }
